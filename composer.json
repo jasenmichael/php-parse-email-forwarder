@@ -1,0 +1,14 @@
+{
+    "name": "jasenmichael/email-parser",
+    "type": "library",
+    "description": "simple emailparser for php",
+    "keywords": ["email", "parser"],
+    "version": "0.0.1",
+    "license": "GPLv3",
+    "require": {
+        "php": ">=5.3.0",
+        "php-mime-mail-parser/php-mime-mail-parser": "^5.0"
+    },
+    "autoload": {
+    }
+}
